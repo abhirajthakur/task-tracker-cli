@@ -2,6 +2,9 @@
 
 A command-line task management application built with Go and Cobra. Easily manage your tasks with features for creating, updating, deleting, and filtering tasks through a simple command-line interface.
 
+This is a solution to project listed on the projects section of roadmap.sh 
+Here's the link to the project: [https://roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker)
+
 ## Features
 
 - **Task Management**
